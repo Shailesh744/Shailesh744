@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm shailesh singh</h1>
 <h3 align="center">A passionate frontend, PHP, java, Android App & Python developer from India</h3>
-<img align="right" alt="image" widht="10" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh744&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh744" /> </p>
 
@@ -15,6 +14,8 @@
 - 📫 How to reach me **shaileshsinghamir@gmail.com**
 
 - ⚡ Fun fact **I dont use "i" in for loop**
+
+  <img align="right" alt="image" widht="10" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
