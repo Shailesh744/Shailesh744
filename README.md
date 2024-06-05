@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailesh744" alt="shailesh744" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shailes54923982" target="blank"><img src="https://img.shields.io/twitter/follow/shailes54923982?logo=twitter&style=for-the-badge" alt="shailes54923982" /></a> </p>
-
 <img align="right" alt="image" widht="10" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
-
 - 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **HTML, CSS, JS, JAVA, PYTHON, C, C++, SQL, ANDROID APP DEVELOPMENT**
@@ -16,8 +14,6 @@
 - 📫 How to reach me **shaileshsinghamir@gmail.com**
 
 - ⚡ Fun fact **I dont use "i" in for loop**
-
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
